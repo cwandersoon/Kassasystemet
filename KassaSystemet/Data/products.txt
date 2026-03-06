@@ -1,0 +1,6 @@
+100; Potatis; 15; Kilo
+200; Apelsin; 29; Kilo
+300; Banan; 22; Kilo
+400; Juice; 29; Styck
+500; Ost; 78; Styck
+600; Kyckling; 99; Styck
